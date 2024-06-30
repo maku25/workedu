@@ -1,7 +1,7 @@
 ## Résumé du Projet - Semestre 6
 
 ### Contexte
-Ce projet, réalisé durant le Semestre 6, consiste en le développement d'un site web éducatif utilisant l'architecture MVC (Modèle-Vue-Contrôleur). Le site est divisé en deux parties principales : le côté utilisateur et le côté administrateur.
+Ce projet, réalisé durant la L3 Semestre 6, consiste en le développement d'un site web éducatif utilisant l'architecture MVC (Modèle-Vue-Contrôleur). Le site est divisé en deux parties principales : le côté utilisateur et le côté administrateur.
 
 ### Fonctionnalités
 
